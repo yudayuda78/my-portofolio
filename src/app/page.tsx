@@ -79,7 +79,7 @@ export default function Home() {
         <div className="grid gap-6 md:grid-cols-2">
       {[
   { name: "CatCode", desc: "A programming learning platform", image: "projects/catcode.webp", url: "https://github.com/yudayuda78/catcode-app-nextjs", stacks: [stackIcons.nextjs, stackIcons.react, stackIcons.postgresql, stackIcons.tailwind, stackIcons.prisma, stackIcons.typescript] },
-  { name: "MentorKita", desc: "Online mentoring and tryout platform for students & mentors", image: "https://github.com/yudayuda78/mentorKita-app-nuxt", url: "https://catcode.vercel.app", stacks: [stackIcons.nuxt, stackIcons.vue, stackIcons.prisma, stackIcons.postgresql, stackIcons.tailwind ] },
+  { name: "MentorKita", desc: "Online mentoring and tryout platform for students & mentors", image: "projects/mentorkita.webp", url: "https://github.com/yudayuda78/mentorKita-app-nuxt", stacks: [stackIcons.nuxt, stackIcons.vue, stackIcons.prisma, stackIcons.postgresql, stackIcons.tailwind ] },
   { name: "Belajar Era Digital", desc: "Webinar platform for teachers", image: "projects/bed.webp", url: "https://belajareradigital.com/admin", stacks: [stackIcons.laravel, stackIcons.mysql, stackIcons.tailwind, stackIcons.javascript] },
   { name: "Ticykit", desc: "Teaching resource and worksheet library", image: "projects/ticykit.webp", url: "https://ticykit.com/dashboard", stacks: [stackIcons.laravel, stackIcons.mysql, stackIcons.tailwind, stackIcons.javascript] },
   { name: "BedLink", desc: "Landing page platform like Linktree", image: "projects/bedlink.webp", url: "https://bedlink.id/", stacks: [stackIcons.laravel, stackIcons.mysql, stackIcons.tailwind, stackIcons.javascript] },
